@@ -1,0 +1,6 @@
+
+train: /kaggle/input/bracol-for-yolov8-detection/BRACOL_REVIEWED_ANNOTATIONS/BRACOL_REVIEWED/train/images
+val: /kaggle/input/bracol-for-yolov8-detection/BRACOL_REVIEWED_ANNOTATIONS/BRACOL_REVIEWED/valid/images
+test: /kaggle/input/bracol-for-yolov8-detection/BRACOL_REVIEWED_ANNOTATIONS/BRACOL_REVIEWED/test/images
+nc: 5
+names: ["miner", "rust", "phoma", "cercospora", "healthy"]
